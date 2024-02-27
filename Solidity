@@ -1,2 +1,33 @@
  Solidity is a high-level programming language used for writing smart contracts on blockchain platforms, primarily Ethereum.
 contract MyContract {}
+
+WHATI IS SOLIDITY
+Solidity is a programming language specifically designed for writing smart contracts that run on the Ethereum Virtual Machine (EVM). It is a statically-typed language, meaning that data types of variables must be specified at compile time. Solidity syntax is similar to JavaScript and it's designed to make it easier to write smart contracts for Ethereum and other Ethereum-compatible blockchains.
+
+Here's a brief overview of some key features of Solidity:
+
+Contract-Oriented: Solidity is primarily used for writing smart contracts, which are self-executing contracts with the terms of the agreement directly written into code.
+
+Data Types: Solidity supports various data types including integers, fixed-point numbers, strings, arrays, mappings, structs, enums, addresses, and more.
+
+Functions and Modifiers: Smart contracts are made up of functions that define the behavior of the contract. Solidity also supports modifiers, which are code snippets that can be reused to modify the behavior of functions.
+
+Inheritance: Solidity allows contracts to inherit properties and methods from other contracts, enabling code reuse and organization.
+
+Events and Logging: Solidity provides a mechanism for contracts to communicate with the external world through events and logging. Events are emitted by the contract and can be listened to by external applications.
+
+Error Handling: Solidity includes mechanisms for error handling, such as assertions and exceptions, to ensure the robustness of smart contracts.
+
+To deploy a contract written in Solidity, you typically follow these steps:
+
+Write the Solidity code for your smart contract using a text editor or an Integrated Development Environment (IDE) like Remix or Visual Studio Code with appropriate extensions.
+
+Compile the Solidity code using a Solidity compiler like solc (command-line compiler) or a compiler provided by an IDE.
+
+After compiling, you'll obtain the bytecode (the low-level code that runs on the EVM) and the Application Binary Interface (ABI), which is a JSON file describing how to interact with the contract.
+
+Deploy the compiled contract bytecode to the Ethereum blockchain using tools like web3.js, ethers.js, or Remix IDE.
+
+Interact with the deployed contract using its ABI and the Ethereum network (e.g., sending transactions to its functions, reading its state variables).
+
+Solidity is a powerful language for building decentralized applications (DApps) and executing smart contracts on the Ethereum blockchain. It's widely used by developers for creating various blockchain-based applications ranging from simple token contracts to complex decentralized finance (DeFi) protocols.
