@@ -32,3 +32,4 @@ Interact with the deployed contract using its ABI and the Ethereum network (e.g.
 
 Solidity is a powerful language for building decentralized applications (DApps) and executing smart contracts on the Ethereum blockchain. It's widely used by developers for creating various blockchain-based applications ranging from simple token contracts to complex decentralized finance (DeFi) protocols.
 Interact with the deployed contract using its ABI and the Ethereum network (e.g., sending transactions to its functions, reading its state variables).
+Contract-Oriented: Solidity is primarily used for writing smart contracts, which are self-executing contracts with the terms of the agreement directly written into code.
