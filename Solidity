@@ -11,6 +11,7 @@ Contract-Oriented: Solidity is primarily used for writing smart contracts, which
 Data Types: Solidity supports various data types including integers, fixed-point numbers, strings, arrays, mappings, structs, enums, addresses, and more.
 
 Functions and Modifiers: Smart contracts are made up of functions that define the behavior of the contract. Solidity also supports modifiers, which are code snippets that can be reused to modify the behavior of functions.
+Functions and Modifiers: Smart contracts are made up of functions that define the behavior of the contract. Solidity also supports modifiers, which are code snippets that can be reused to modify the behavior of functions.
 
 Inheritance: Solidity allows contracts to inherit properties and methods from other contracts, enabling code reuse and organization.
 
