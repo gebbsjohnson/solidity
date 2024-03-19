@@ -26,6 +26,7 @@ Write the Solidity code for your smart contract using a text editor or an Integr
 Compile the Solidity code using a Solidity compiler like solc (command-line compiler) or a compiler provided by an IDE.
 
 After compiling, you'll obtain the bytecode (the low-level code that runs on the EVM) and the Application Binary Interface (ABI), which is a JSON file describing how to interact with the contract.
+After compiling, you'll obtain the bytecode (the low-level code that runs on the EVM) and the Application Binary Interface (ABI), which is a JSON file describing how to interact with the contract.
 
 Deploy the compiled contract bytecode to the Ethereum blockchain using tools like web3.js, ethers.js, or Remix IDE.
 
